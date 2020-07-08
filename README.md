@@ -1,9 +1,10 @@
 # Hi there 👋
 
-## Who am I ?
+## Who am I
 
-- japanese 🇯🇵
-- student 👨‍🎓 (esp. a university student)
+- My name is Yuto Watanabe
+- Japanese 🇯🇵
+- Student 👨‍🎓 (esp. a university student)
 - I like anime and manga.
   - Watched amines: [jump to Annict](https://annict.jp/@cateiru/watched)
 - and programming!!!
@@ -15,7 +16,7 @@
 ## What I made
 
 - [Earthquake Alert](https://github.com/earthquake-alert/earthquake-alert)
-  - Japan Earthquake Notifications to Twitter, Discode, Slack, Line
+  - Japan Earthquake notifications to Twitter, Discode, Slack, LINE
   - Twitter account: <img src="https://img.icons8.com/color/48/000000/twitter.png" width="17"/>[@e_alert_](https://twitter.com/e_alert_)
 - [class-cancellation-monitoring](https://github.com/yuto51942/class-cancellation-monitoring)
   - Get make-up and class cancellation information from the university's information website and send it to Slack.
