@@ -6,7 +6,7 @@
 - Japanese 🇯🇵
 - Student 👨‍🎓 (esp. a university student)
 - I like anime and manga.
-  - Watched amines: [jump to Annict](https://annict.jp/@cateiru/watched)
+  - Watched animes: [jump to Annict](https://annict.jp/@cateiru/watched)
 - and programming!!!
   - <img src="https://img.icons8.com/color/48/000000/python.png" width="17"/>Python (studying)
   - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="17"/>JavaScript (studying)
