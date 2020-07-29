@@ -1,8 +1,6 @@
 # Hi there 👋
 
-<a herf="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuto51942">
-</a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuto51942&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Who am I
