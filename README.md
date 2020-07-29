@@ -1,5 +1,10 @@
 # Hi there 👋
 
+<a herf="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuto51942">
+</a>
+
+
 ## Who am I
 
 - My name is Yuto Watanabe
@@ -8,10 +13,7 @@
 - I like anime and manga.
   - Watched animes: [jump to Annict](https://annict.jp/@cateiru/watched)
 - and programming!!!
-  - <img src="https://img.icons8.com/color/48/000000/python.png" width="17"/>Python (studying)
-  - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="17"/>JavaScript (studying)
-  - <img src="https://img.icons8.com/color/48/000000/typescript.png" width="17"/>TypeScript (studying)
-  - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="17"/>C/C++ (A little.)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I made
 
@@ -26,8 +28,4 @@
 
 ## Used
 
-- <a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
-- <a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>
-- <a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript icon by Icons8</a>
-- <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>
 - <a href="https://icons8.com/icon/13963/ツイッター">ツイッター icon by Icons8</a>
