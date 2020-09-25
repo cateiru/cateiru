@@ -9,4 +9,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuto51942&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=yuto51942&theme=dracula" />
+</a>
