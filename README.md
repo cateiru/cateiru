@@ -15,6 +15,6 @@
 
 |||
 |:-:|:-:|
-|使える|![image](https://skill-status.vercel.app/?lang=python,js,ts,sol&size=40)|
-|触ったことがある|![image](https://skill-status.vercel.app/?lang=java,c,cpp&size=40)|
-|将来やってみたい！|![image](https://skill-status.vercel.app/?lang=rust,go,dart&size=40)|
+|使える|![image](https://skill-status.vercel.app/?type=python,js,ts,sol&size=40)|
+|触ったことがある|![image](https://skill-status.vercel.app/?type=java,c,cpp&size=40)|
+|将来やってみたい！|![image](https://skill-status.vercel.app/?type=rust,go,dart&size=40)|
