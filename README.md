@@ -14,5 +14,5 @@
 ---
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yuto51942&theme=react-dark&hide_border=true" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yuto51942&theme=nord&hide_border=true" />
 </a>
