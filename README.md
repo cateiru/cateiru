@@ -8,5 +8,5 @@
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=yuto51942&theme=nord&margin-w=5&margin-h=5&column=4&no-frame=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=yuto51942&theme=nord&column=8&no-frame=true" />
 </a>
