@@ -11,13 +11,13 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuto51942&theme=nord_dark" width="250px" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuto51942&theme=nord_dark" width="281px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuto51942&theme=nord_dark" width="250px" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuto51942&theme=nord_dark" width="281px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuto51942&theme=nord_dark" width="250px" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuto51942&theme=nord_dark" width="281px" />
   </a>
 </div>
                                                                                                                                                  
