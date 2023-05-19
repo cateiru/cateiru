@@ -7,6 +7,8 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="270px" />
@@ -18,6 +20,8 @@
     <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="270px" />
   </a>
 </div>
+
+---
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
